@@ -11,7 +11,7 @@ Public issue tracker for [Log Processor](https://perfware.cloud) on AWS Marketpl
 ## Before Reporting
 
 1. Check [existing issues](https://github.com/perfwaresupport/logprocessor-support/issues) for duplicates
-2. Include your deployment tier (small/medium/large/enterprise)
+2. Include your deployment tier
 3. Include relevant CloudWatch log errors if applicable
 4. Do not include AWS credentials, account IDs, or sensitive data
 
