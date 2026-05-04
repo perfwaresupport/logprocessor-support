@@ -28,7 +28,7 @@ What actually happened.
 Relevant CloudWatch log errors (remove any sensitive data):
 
 ```
-paste logs here or send zipped support bundle
+paste logs here or email zipped support bundle
 ```
 
 **Additional context**
