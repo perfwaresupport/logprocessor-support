@@ -19,8 +19,8 @@ Public issue tracker for [Log Processor](https://perfware.cloud) on AWS Marketpl
 
 | Channel | Use For | Response |
 |---|---|---|
-| [GitHub Issues](https://github.com/perfwaresupport/logprocessor-support/issues) | Bugs, feature requests | 2 business days |
-| support@perfware.cloud | Configuration help, account issues | 2 business days |
+| [GitHub Issues](https://github.com/perfwaresupport/logprocessor-support/issues) | Bugs, feature requests | per tier |
+| support@perfware.cloud | Configuration help, account issues | per tier |
 | consulting@perfware.cloud | Custom integration, managed service | By arrangement |
 
 ## Product Links
