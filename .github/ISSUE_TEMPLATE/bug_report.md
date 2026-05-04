@@ -6,7 +6,7 @@ labels: bug
 ---
 
 **Deployment**
-- Tier: (small / medium / large / enterprise)
+- Tier: (basic / essential / advanced / enterprise)
 - Region:
 - Stack name:
 
@@ -28,7 +28,7 @@ What actually happened.
 Relevant CloudWatch log errors (remove any sensitive data):
 
 ```
-paste logs here
+paste logs here or send zipped support bundle
 ```
 
 **Additional context**
